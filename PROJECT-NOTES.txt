@@ -1,0 +1,8 @@
+GRANTLY HACKATHON STARTER
+
+1. Extract the ZIP.
+2. For the easiest launch, install Docker Desktop and run START-HERE-WINDOWS.bat.
+3. Website: http://localhost:5173
+4. Backend API docs: http://localhost:8000/docs
+
+This is a hackathon prototype with demo scholarship records. Read README.md for full instructions and limitations. The frontend is currently an interactive demo with browser state; backend API is included separately and is not yet fully wired to the frontend. No real authentication or document upload is enabled.
